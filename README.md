@@ -65,13 +65,14 @@ Software Engineer
 *	Designed support for audio announcements by import of audio files, real time transcoding and RTP packetization
 
 ### Technical Skills ### 
-Area|Expertise
----------|--------------------------
+
+Area     |Expertise
+---------|---------
 Languages	|`Java`, Scala, `Python`, C, `C++`
 Software	|BIRT, Zabbix, Purecov, gcov, Splint, Purify, Valgrind, grpof, gdb, Clarify, Clearcase
 Protocols	|MAC, FP, RANAP, SCCP, HDMI
-Stacks	|Hadoop, HDFS, MapReduce, Apache Spark, Oozie, Hive
-Other	|Linux, MIPS-32k, STB, device drivers (HDMI), git, Eclipse, IntelliJ, JMeter
+Stacks	  |Hadoop, HDFS, MapReduce, Apache Spark, Oozie, Hive
+Other	    |Linux, MIPS-32k, STB, device drivers (HDMI), git, Eclipse, IntelliJ, JMeter
 
 ### Education ###
 
