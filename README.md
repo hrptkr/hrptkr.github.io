@@ -46,15 +46,15 @@ OAM
 * Tools:  Python, Zabbix
 
 
-**iTaas (August 2010 – April 2012) **
-**Senior Software Engineer **
+**iTaas (August 2010 – April 2012)**
+**Senior Software Engineer**
  
 * Worked on device driver development for cable-TV set-top box (STB) system (MIPS-32k platform) for Cisco 
 * Debugged and ported the device drivers and HAL for HDMI 
 * Debugged and fixed issues related to PowerTV-OS (RTOS) in Home Networking 
 
-**Aricent (June 2008 – July 2010) **
-**Software Engineer **
+**Aricent (June 2008 – July 2010)**
+**Software Engineer**
  
 * Designed voice fall-back support (video-to-voice in a 3G network) for BICC and SIP-I 
 * Developed the feature to support customized images during a call in case of missing video I-Frame 
@@ -62,11 +62,11 @@ OAM
  
 ## Technical Skills 
  
-Languages        Java, Scala, Python
-Software        Zabbix, Purecov, gcov, Splint, Purify, Valgrind, gdb, Clarify, Clearcase
-Protocols        MAC, FP, RANAP, SCCP, HDMI
-Stacks            Hadoop, HDFS, MapReduce, Apache Spark, Oozie, Hive
-Other            Linux, git, Eclipse, IntelliJ, JMeter
+* Languages        Java, Scala, Python
+* Software        Zabbix, Purecov, gcov, Splint, Purify, Valgrind, gdb, Clarify, Clearcase
+* Protocols        MAC, FP, RANAP, SCCP, HDMI
+* Stacks            Hadoop, HDFS, MapReduce, Apache Spark, Oozie, Hive
+* Other            Linux, git, Eclipse, IntelliJ, JMeter
 
 ## Education 
  
