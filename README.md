@@ -85,3 +85,7 @@ B. Tech in Instrumentation and Control, class of 2008
 
 Functional Programming Principles in Scala
 by Martin Odersky
+
+### Linkedin
+
+https://www.linkedin.com/in/harpreet-kaur-92b88412/
