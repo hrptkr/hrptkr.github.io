@@ -65,7 +65,7 @@ Software Engineer
 Tools: C/C++, gdb, valgrind, purify, purecov, Splint
 
 ### Technical Skills
-Aspect|Tools
+ | 
 ---------|---------
 Languages|Java, Scala, Python
 Software|Zabbix, Purecov, gcov, Splint, Purify, Valgrind, gdb, Clarify, Clearcase
