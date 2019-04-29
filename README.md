@@ -65,12 +65,13 @@ Software Engineer
 Tools: C/C++, gdb, valgrind, purify, purecov, Splint
 
 ### Technical Skills
-
-|Languages|Java, Scala, Python|
-|Software|Zabbix, Purecov, gcov, Splint, Purify, Valgrind, gdb, Clarify, Clearcase|
-|Protocols|MAC, FP, RANAP, SCCP, HDMI|
-|Stacks|Hadoop, HDFS, MapReduce, Apache Spark, Oozie, Hive|
-|Other|Linux, git, Eclipse, IntelliJ, JMeter|
+Aspect|Tools
+---------|---------
+Languages|Java, Scala, Python
+Software|Zabbix, Purecov, gcov, Splint, Purify, Valgrind, gdb, Clarify, Clearcase
+Protocols|MAC, FP, RANAP, SCCP, HDMI
+Stacks|Hadoop, HDFS, MapReduce, Apache Spark, Oozie, Hive
+Other|Linux, git, Eclipse, IntelliJ, JMeter
 
 ### Education
 
