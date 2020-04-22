@@ -8,6 +8,12 @@ Technology Lead, proficient in Java and Python, Big Data specialist with more th
 
 ### Work Experience
 
+#### GlobalRelay (June 2019 - Present)
+
+Senior Software Developer
+
+- ERS
+
 #### Guavus Network Systems (April 2012 – Feb 2018)
 
 Lead Technology
